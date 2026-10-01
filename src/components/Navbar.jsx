@@ -174,7 +174,7 @@ export default function Navbar() {
                 vishwakarmamaruti1@gmail.com
               </a>
               <div className="flex gap-6 mt-2 text-xs text-stone-400 tracking-wider">
-                <a href="https://instagram.com" target="_blank" rel="noopener noreferrer" className="hover:text-white">Instagram</a>
+                <a href="https://www.instagram.com/p_interio_?stkn=MTdsbXg3N2JjZm1naw==" target="_blank" rel="noopener noreferrer" className="hover:text-white">Instagram</a>
                 <a href="https://facebook.com" target="_blank" rel="noopener noreferrer" className="hover:text-white">Facebook</a>
               </div>
             </div>

@@ -61,7 +61,7 @@ export default function Footer() {
             </h4>
             <ul className="space-y-3 text-sm">
               {[
-                { name: 'Instagram', url: 'https://instagram.com' },
+                { name: 'Instagram', url: 'https://www.instagram.com/p_interio_?stkn=MTdsbXg3N2JjZm1naw==' },
                 { name: 'Facebook', url: 'https://facebook.com' },
               ].map((social) => (
                 <li key={social.name}>

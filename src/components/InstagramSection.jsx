@@ -18,14 +18,14 @@ export default function InstagramSection() {
             className="mb-0"
           />
           <a
-            href="https://instagram.com"
+            href="https://www.instagram.com/p_interio_?stkn=MTdsbXg3N2JjZm1naw=="
             target="_blank"
             rel="noopener noreferrer"
             data-cursor="clickable"
             className="inline-flex items-center gap-2.5 px-6 py-3 rounded-full bg-[#121212] text-white hover:bg-[#8C7A6B] text-xs font-semibold tracking-[0.2em] uppercase transition-all duration-300 self-start sm:self-end"
           >
             <Instagram className="w-4 h-4" />
-            <span>@pinterio</span>
+            <span>@p_interio_</span>
           </a>
         </div>
 
@@ -34,7 +34,7 @@ export default function InstagramSection() {
           {instagramPosts.map((post, idx) => (
             <motion.a
               key={post.id}
-              href="https://instagram.com"
+              href="https://www.instagram.com/p_interio_?stkn=MTdsbXg3N2JjZm1naw=="
               target="_blank"
               rel="noopener noreferrer"
               initial={{ opacity: 0, y: 20 }}
